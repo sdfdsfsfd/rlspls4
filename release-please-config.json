@@ -7,11 +7,6 @@
             
             "component": "myapp1",
             "release-type": "simple"
-    },
-      "infra/dev": {
-            
-            "component": "dev",
-            "release-type": "simple"
     }
     }
 }
