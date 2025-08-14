@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/sdfdsfsfd/rlspls4/compare/myapp1-v1.1.0...myapp1-v1.2.0) (2025-08-14)
+
+
+### Features
+
+* A1 ([#8](https://github.com/sdfdsfsfd/rlspls4/issues/8)) ([35bacf4](https://github.com/sdfdsfsfd/rlspls4/commit/35bacf4e4ed5dad577e2779bfd4552498ebccd73))
+
 ## [1.1.0](https://github.com/sdfdsfsfd/rlspls4/compare/myapp1-v1.0.0...myapp1-v1.1.0) (2025-07-25)
 
 
